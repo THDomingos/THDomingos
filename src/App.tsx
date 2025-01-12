@@ -2,6 +2,11 @@ import React, { useState } from "react";
 import { ThemeProvider, CssBaseline, IconButton } from "@mui/material";
 import { darkTheme, lightTheme } from "./theme.ts";
 import HomePage from "./components/HomePage.tsx";
+import Skills from "./components/Skills.tsx";
+import Projects from "./components/Projects.tsx";
+import Education from "./components/Education.tsx";
+import Contact from "./components/Contact.tsx";
+
 import { Brightness7, Brightness4 } from "@mui/icons-material";
 
 
@@ -15,8 +20,13 @@ const App: React.FC = () => {
   return (
     <ThemeProvider theme={isDarkMode ? darkTheme : lightTheme}>
       <CssBaseline />
+
       <HomePage />
-      {/* Botão de alternância de tema */}
+      <Skills />
+      <Projects />
+      <Education />
+      <Contact />
+
       <IconButton
               onClick={toggleTheme}
               sx={{

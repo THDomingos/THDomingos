@@ -1,15 +1,21 @@
 import React from "react";
-import { Box, Typography, Button } from "@mui/material";
+import { Box, Typography, Button, Avatar } from "@mui/material";
 import { LinkedIn, MailOutline } from "@mui/icons-material";
 
 const HomePage: React.FC = () => {
   return (
-    <Box sx={{ textAlign: "center", padding: "50px", color: "white" }}>
+<Box sx={{ textAlign: "center", padding: "50px", color: "text.primary" }}>
+      <Avatar
+        sx={{ width: 150, height: 150, margin: "auto", mb: 2 }}
+        alt="Thiago H. Domingos"
+        src=".\img\avatar.png"
+      />
+      
       <Typography variant="h3" gutterBottom>
         Thiago H. Domingos
       </Typography>
       <Typography variant="h6" paragraph>
-        Desenvolvedor | Arquiteto de Software | 35 anos
+        Desenvolvedor | Arquiteto de Software 
       </Typography>
       <Typography variant="body1" paragraph>
         Com mais de 12 anos de experiência em tecnologia, incluindo suporte
