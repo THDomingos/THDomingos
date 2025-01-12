@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# Olá, eu sou Thiago H. Domingos 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sou um **Arquiteto e Desenvolvedor de Software** com mais de 12 anos de experiência em tecnologia, com foco em **suporte técnico**, **gestão de equipes** e **desenvolvimento de soluções inovadoras**. Atualmente, estou me especializando em **Java**, **SQL com PostgreSQL**, **React** e **AWS**.
 
-## Available Scripts
+Tenho paixão por resolver problemas complexos e entregar soluções de qualidade. Sou fã de trabalhar com pessoas e liderar equipes de alto desempenho, sempre buscando aprendizado contínuo e eficiência em meus projetos.
 
-In the project directory, you can run:
+### 🌐 Meu site
+Você pode conhecer mais sobre meu trabalho em meu site pessoal:  
+[thiagohdomingos.com](https://thiagohdomingos.com)
 
-### `npm start`
+### 📍 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/thiagohdomingos/)
+- E-mail: thiagohdomingos@hotmail.com
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 💻 Habilidades Técnicas
+- **Backend**: Java, Spring Boot
+- **Frontend**: React, Material UI, TypeScript
+- **Banco de Dados**: SQL, PostgreSQL
+- **Cloud**: AWS
+- **Metodologias Ágeis**: Scrum, Kanban
+- **Ferramentas**: Git, Docker, Jenkins, Maven
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 🚀 Projetos Recentes
+Aqui estão alguns dos projetos em que estou trabalhando ou que já desenvolvi:
+- [Projeto 1](https://github.com/THDomingos/THDomingos)
+- [Projeto 2](https://github.com/THDomingos/patient_management)
 
-### `npm test`
+### 📚 Meu Objetivo
+Estou constantemente buscando aprimorar minhas habilidades, liderar projetos de software de alta complexidade e agregar valor às empresas com soluções tecnológicas inovadoras. Estou aberto a novas oportunidades e colaborações!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Obrigado por visitar meu perfil! 😄
