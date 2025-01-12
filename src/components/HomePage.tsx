@@ -4,11 +4,11 @@ import { LinkedIn, MailOutline } from "@mui/icons-material";
 
 const HomePage: React.FC = () => {
   return (
-<Box sx={{ textAlign: "center", padding: "50px", color: "text.primary" }}>
+<Box sx={{ textAlign: "center", padding: "80px", color: "text.primary" }}>
       <Avatar
         sx={{ width: 150, height: 150, margin: "auto", mb: 2 }}
         alt="Thiago H. Domingos"
-        src=".\img\avatar.png"
+        src="../../img/avatar.png"
       />
       
       <Typography variant="h3" gutterBottom>
